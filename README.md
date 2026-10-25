@@ -58,11 +58,11 @@ credit coverage for students and broader audiences.
 ## Education
 
 **Master of Commerce (Finance)** — UNSW Business School · Sep 2026 – Sep 2027
-International Student Award (20% scholarship)
+- International Student Award (20% scholarship)
 
 **Bachelor of Applied Finance** — Macquarie University · Jul 2023 – Jun 2026
-International Student Scholarship (A$10,000 p.a.)
-High Distinctions: Applied Statistics (93), Corporate Finance (89), Business Statistics (86),
+- International Student Scholarship (A$10,000 p.a.)
+- High Distinctions: Applied Statistics (93), Corporate Finance (89), Business Statistics (86),
 Introductory Econometrics (85)
 
 ---
