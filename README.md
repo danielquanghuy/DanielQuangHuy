@@ -70,6 +70,7 @@ Introductory Econometrics (85)
 ## Experience
 **Pari Passu Newsletter** — Social Media Intern · Sep 2026 – Present
 – Pull market data and deal coverage using AI tools and Excel, turning complex transactions into data-led, insightful posts. 
+
 **ELTAX Accountants** — Accounting Intern · Oct 2023 – Jul 2024
 - Prepared GST and income tax returns, assisted with company financial statements, processed
 payroll for 30+ clients in Xero, and performed analytical review to reconcile variances and
